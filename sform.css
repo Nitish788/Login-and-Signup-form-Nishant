@@ -1,0 +1,62 @@
+body {
+    background: url(pp5.jpg) no-repeat center center/cover;
+}
+
+.heading {
+    text-align: center;
+    text-shadow: 2px 2px 3px red;
+    position: relative;
+    top: 45px;
+}
+
+.container {
+    text-align: center;
+    width: 435px;
+    height: 555px;
+    margin-left: 433px;
+    background-color: #748d8b38;
+    position: relative;
+    top: 15px;
+    border-radius: 15px;
+    background: url(pp1.jpg) no-repeat center center/cover;
+}
+
+div .input {
+    position: relative;
+    top: 71px;
+    padding: 20px;
+}
+
+.infor {
+    padding: 8px 48px 8px 19px;
+    font-family: cursive;
+    background-color: cornsilk;
+    border-color: crimson;
+}
+
+.infor:focus {
+    background-color: white;
+}
+
+.btn {
+    padding: 13px 33px 11px 39px;
+    margin: 18px;
+    border-radius: 10px;
+    background-color: #21ecc3;
+    color: #d20f72;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+}
+
+#bt2:hover {
+    background-color: green;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}

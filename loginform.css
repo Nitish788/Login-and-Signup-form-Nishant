@@ -1,0 +1,66 @@
+body {
+    background: url("form.jpg") no-repeat center center/cover;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(226, 241, 15);
+    text-shadow: 5px 4px goldenrod;
+    font-size: 200%;
+    font-family: cursive;
+}
+
+h4 {
+    font-size: 19px;
+    color: darkred;
+}
+
+.container {
+    text-align: center;
+    width: 435px;
+    height: 545px;
+    margin-left: 433px;
+    background-color: #7fffd440;
+    position: relative;
+    top: 34px;
+    border-radius: 12px;
+}
+
+.document {
+    margin: 1.7em;
+}
+
+input.data {
+    padding: 5px 10px 15px 10px;
+    background-color: rgb(215 211 201);
+}
+
+.data:focus {
+    background-color: white;
+}
+
+.box {
+    margin: 1.8em;
+}
+
+button {
+    padding: 15px 60px;
+    background-color: rgb(66 196 130 / 95%);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: yellowgreen;
+    color: white;
+}
+
+a {
+    color: rgb(238, 47, 13);
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+#sign {
+    font-size: 1.3em;
+    color: darkblue;
+}
